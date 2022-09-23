@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+    font-size: 28px;
+}
+.formulario{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Bungee Spice', cursive;
+    text-align: center;
+    background-color: gray;
+    height: 50vh;
+    font-size: 28px;
+}
+.lottie{
+    background-color: black;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
